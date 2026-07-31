@@ -1,5 +1,5 @@
 ## Bonjour, Je suis Lou-Anne 👋
-#### Ingénieure logiciel et Assurance qualité
+#### Ingénieure développement logiciel, DevOps et Assurance qualité
 Passionnée, utilisant l'informatique pour apporter des solutions aux problèmes de société et améliorer la vie quotidienne.
 
 ---
